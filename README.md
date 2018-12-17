@@ -1,7 +1,7 @@
 # Newspaper-Application-with-Django
 I used Ubuntu to create this newspaper application. 
 
-An application I made following a django for beginners book.
+An application I made following a django for beginners book by William S. Vincent.
 
 In order to utilize this repo, I would suggest downloading the latest version of python.
 
